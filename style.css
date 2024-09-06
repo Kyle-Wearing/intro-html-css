@@ -33,3 +33,9 @@ ul {
 ol {
   color: hotpink;
 }
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
+  justify-content: space-evenly;
+}
