@@ -20,5 +20,13 @@ h2 {
 }
 
 a {
-  font-size: xx-large;
+  font-size: x-large;
+}
+
+ul {
+  color: chocolate;
+}
+
+ol {
+  color: hotpink;
 }
