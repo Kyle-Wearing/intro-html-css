@@ -10,3 +10,15 @@
   border-width: 10px;
   border-color: lime;
 }
+
+h1 {
+  font-family: cursive;
+}
+
+h2 {
+  font-family: fantasy;
+}
+
+a {
+  font-size: xx-large;
+}
