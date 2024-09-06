@@ -1,3 +1,8 @@
 * {
   background-color: turquoise;
 }
+
+#cat {
+  height: 25%;
+  width: 25%;
+}
