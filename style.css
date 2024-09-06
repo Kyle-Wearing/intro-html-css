@@ -1,5 +1,5 @@
 * {
-  background-color: turquoise;
+  background-color: rgb(105, 144, 112);
   margin: 10px;
   padding: 5px;
   text-align: center;
@@ -11,7 +11,7 @@
   border-radius: 100%;
   border-style: solid;
   border-width: 10px;
-  border-color: lime;
+  border-color: gold;
 }
 
 h1 {
@@ -38,4 +38,36 @@ ol {
   display: grid;
   grid-template-columns: auto auto;
   justify-content: space-evenly;
+}
+
+#url-navbar {
+  list-style-type: none;
+  padding: 10px;
+  margin: 10px;
+  background-color: lightsalmon;
+  border-style: outset;
+  border-color: burlywood;
+}
+
+.url-navbar {
+  list-style-type: none;
+  padding: 10px;
+  margin: 10px;
+  background-color: lightsalmon;
+  border-style: outset;
+  border-color: burlywood;
+}
+
+#li-a {
+  display: block;
+  background-color: lightsalmon;
+  text-decoration: none;
+  margin: 10px;
+  padding: 10px;
+}
+#li-a:hover {
+  background-color: brown;
+  color: white;
+  margin: 10px;
+  padding: 10px;
 }
